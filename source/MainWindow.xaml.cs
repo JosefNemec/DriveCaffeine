@@ -179,9 +179,8 @@ public class CaffineTask
                     File.Delete(path);
                     await Task.Delay(delay);
                 }
-                catch (Exception e) when (!Debugger.IsAttached)
+                catch
                 {
-
                 }
             }
         });

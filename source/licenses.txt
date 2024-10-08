@@ -1,7 +1,8 @@
+CommunityToolkit.Mvvm
+MIT https://github.com/CommunityToolkit/dotnet/blob/main/License.md
 
-
-
+Hardcodet.NotifyIcon.Wpf
+MIT https://github.com/hardcodet/wpf-notifyicon/blob/develop/LICENSE
 
 Coffee icons created by Freepik - Flaticon
-
-https://www.flaticon.com/free-icons/coffee
+Attribution License https://www.flaticon.com/free-icons/coffee
